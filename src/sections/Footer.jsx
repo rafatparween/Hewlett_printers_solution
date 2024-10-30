@@ -69,10 +69,10 @@ const Footer = () => {
             <p>89 Woodland Center, USA</p>
             <p>
               <a
-                href="mailto:support@eztechprintersolutions.com"
+                href="mailto:support@hewlettprintersolution.com"
                 className="hover:text-teal-200"
               >
-                support@eztechprintersolutions.com
+                support@hewlettprintersolution.com
               </a>
             </p>
           </div>
